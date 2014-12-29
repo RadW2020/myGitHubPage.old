@@ -1,0 +1,39 @@
+@import url('http://fonts.googleapis.com/css?family=Lato');
+@import 'bootstrap';
+
+    body {
+        background: url('building_low.jpg');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        line-height: 1.5;
+        color: white;
+    }
+    
+    h1 {
+        font-family: 'Helvetica Neue', Helvetica;
+        font-weight: 100;
+        font-size: 60px;
+    }
+    h4 { color: white; font-family: 'Lato', Helvetica;}
+    
+    p { 
+        font-family: 'Lato',Helvetica; 
+        font-weight: 200;
+        font-size: 16px;
+    }
+    
+     .container1 {
+        width: 350px;
+        margin: 100px auto;
+        padding: 20px;
+        border-radius: 40px;
+        background: black;
+        text-align: center;
+        background-color: rgba(0, 0, 0, 0.6);
+    }
+        
+        
+        
+        
+        
