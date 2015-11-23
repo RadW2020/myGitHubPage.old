@@ -9,6 +9,16 @@ rss {
 }
 <em>/* HEADER */</em>
 <em>/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/</em>
+channel image{
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #0000ff;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+
+}
 channel title {
     display:block;
     padding:0.4em 0.2em;
