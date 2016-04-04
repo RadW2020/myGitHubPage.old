@@ -1,0 +1,6 @@
+---
+published: true
+title: Hola Mund0 ;)
+layout: post
+---
+Primer post usando TinyPress
